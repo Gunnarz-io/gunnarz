@@ -1,5 +1,5 @@
 # gunnarz
-Submit issues and QoL feature requests here.
+Submit issues and feature requests here.
 
 ![Gameplay Screenshot](https://media.discordapp.net/attachments/873241962092847135/1013995709818732576/download_5.png)
 
